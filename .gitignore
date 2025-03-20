@@ -1,3 +1,34 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb_meta/
+.DS_Store
+
+config.json
+
+# Jupyter Notebooks save history
+*.py
+
+# Jupyter widgets
+.ipynb_checkpoints/
+
+# Elspy temporary files
+notebooks/data
+
+# Virtual environment
+.env/
+
+# Other Jupyter-related files and directories
+/.venv/
+*.tsv
+*.jsonl
+*.zip
+*.tar.gz
+
+/fulltexts/*.DS_Store
+*.DS_Store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

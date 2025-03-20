@@ -1,0 +1,13 @@
+elsapy
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+xmltodict
+python-dotenv
+simplejson
+seaborn
+networkx
+wordcloud

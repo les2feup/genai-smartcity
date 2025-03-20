@@ -1,0 +1,188 @@
+{
+    "artificial_intelligence": {
+        "pattern": "\\b(a(rtificial)?[\\s-]?i(ntelligence)?)([\\s]*\\(ai\\))?\\b",
+        "replacement": "artificial intelligence"
+    },
+    "internet_of_things": {
+        "pattern": "\\b(?:i(?:nternet)?[\\s-]?o(?:f)?[\\s-]?t(?:hings)?|(?:a|i)?iot[s]?)([\\s]*\\(iot\\))?\\b",
+        "replacement": "internet of things"
+    },
+    "intrusion_detection_system": {
+        "pattern": "\\b(intrusion[\\s-]?detection[\\s-]?systems?)(\\s*\\(ids\\))?\\b|\\b(intrusion[\\s-]?detection)(\\s+data)?\\b|\\bids\\b",
+        "replacement": "intrusion detection system"
+    },
+    "generative_adversarial_network": {
+        "pattern": "\\b(?:g(?:enerative)?[\\s-]?ad(?:versarial|versary)[\\s-]?n(?:etwork)?s?|deep\\s+generative\\s+ad(?:versarial|versary)\\s+network|gan[s]?|(?:wgan[\\s-]?gp|cgan[s]?|egan|ctgan|began|urbangenogan|5gt[\\s-]?gan)|cycle[\\s-]?consistent[\\s-]?adversarial[\\s-]?networks?|(?:conditional[\\s-]?ad(?:versarial|versary)[\\s-]?(?:generative[\\s-]?)?networks?))\\b",
+        "replacement": "generative adversarial network"
+    },
+    "large_language_model": {
+        "pattern": "\\b(l(arge)?[\\s-]?l(anguage)?[\\s-]?m(odel)?s?)(\\s*\\(llm\\))?\\b|\\bllm[s]?\\b",
+        "replacement": "large language model"
+    },
+    "variational_autoencoder": {
+        "pattern": "\\b(v(ariational)?[\\s-]?a(uto)?[\\s-]?e(ncoder)?s?)(\\s*\\(vae\\))?\\b|\\bvae[s]?\\b",
+        "replacement": "variational autoencoder"
+    },
+    "retrieval_augmented_generation": {
+        "pattern": "\\b(r(etrieval)?[\\s-]?a(ugmented)?[\\s-]?g(eneration)?)(\\s*\\(rag\\))?\\b|\\brag\\b",
+        "replacement": "retrieval augmented generation"
+    },
+    "ai_agent": {
+        "pattern": "\\b(a(i)?[\\s-]?agent[s]?)\\b",
+        "replacement": "ai agent"
+    },
+    "machine_learning": {
+        "pattern": "\\b(m(achine)?[\\s-]?l(earning)?)(\\s*\\(ml\\))?\\b|\\bml\\b",
+        "replacement": "machine learning"
+    },
+    "deep_learning": {
+        "pattern": "\\b(d(eep)?[\\s-]?l(earning)?)(\\s*\\(dl\\))?\\b|\\bdl\\b",
+        "replacement": "deep learning"
+    },
+    "natural_language_processing": {
+        "pattern": "\\b(n(atural)?[\\s-]?l(anguage)?[\\s-]?p(rocessing)?)(\\s*\\(nlp\\))?\\b|\\bnlp\\b",
+        "replacement": "natural language processing"
+    },
+    "smart_city": {
+        "pattern": "\\b(smart[\\s-]?c(ities|ity))\\b",
+        "replacement": "smart city"
+    },
+    "generative_ai": {
+        "pattern": "\\b(generative[\\s-]?(ai|method|model[s]?)(\\s+for\\s+image)?)\\b|\\bgenerative\\b(?!\\s+ad)",
+        "replacement": "generative ai"
+    },
+    "digital_twin": {
+        "pattern": "\\b(d(igital)?[\\s-]?t(win)?s?)\\b",
+        "replacement": "digital twin"
+    },
+    "urban_planning": {
+        "pattern": "\\b(u(rban)?[\\s-]?(planning|modeling|development|expansion|transformation|renovation|form(\\s+generation)?))\\b",
+        "replacement": "urban planning"
+    },
+    "autonomous_vehicle": {
+        "pattern": "\\b(a(utonomous|i)?[\\s-]?(v(ehicle)?s?|driving|cars?)|self[\\s-]?driving(\\s+cars?)?)\\b",
+        "replacement": "autonomous vehicle"
+    },
+    "big_data": {
+        "pattern": "\\b(b(ig)?[\\s-]?d(ata)?)([\\s-](analysis|analytics|gps[\\s-]?data))?\\b",
+        "replacement": "big data"
+    },
+    "chatbot": {
+        "pattern": "\\bchat[\\s-]?bot[s]?\\b",
+        "replacement": "chatbot"
+    },
+    "convolutional_neural_network": {
+        "pattern": "\\b(?:convolutional[\\s-]?neural[\\s-]?networks?(?:\\s*\\(cnn\\))?|cnn)\\b",
+        "replacement": "convolutional neural network"
+    },
+    "data_driven": {
+        "pattern": "\\b(data[\\s-]?(analysis|augmentation|driven|engineering|hub|linkage|mining|optimization|preprocessing|preparation|privacy|scarcity|science|sharing|synthesis))\\b",
+        "replacement": "data driven"
+    },
+    "neural_network": {
+        "pattern": "\\b(?:(?:artificial|spiking|recurrent|generative|countermeasure)?[\\s-]?neural[\\s-]?networks?(?:\\s*\\((?:ann|snn)\\))?|neural[\\s-]?network[\\s-]?models?|(?:ann|snn|rnn))\\b",
+
+        "replacement": "neural network"
+    },
+    "lstm": {
+        "pattern": "\\b(?:l(ong)?[\\s-]?s(hort)?[\\s-]?t(erm)?[\\s-]?m(emory)?)(\\s*\\(lstm\\))?\\b|\\blstm\\b|\\b(?:c(onv)?[\\s-]?lstm|bi[\\s-]?lstm|stacked[\\s-]?(?:attention[\\s-]?)?gru[\\s-]?lstm|g(r(u)?)?[\\s-]?lstm|graph[\\s-]?(?:convolutional[\\s-]?network[\\s-]?with[\\s-]?)?long[\\s-]?short[\\s-]?term[\\s-]?memory)\\b",
+        "replacement": "lstm"
+    },
+    "deep_learning_unified": {
+        "pattern": "\\b(?:deep[\\s-]?(?:learning|reinforcement[\\s-]?learning(?:\\s*\\(drl\\))?)|drl)\\b",
+
+        "replacement": "deep learning"
+    },
+    "diffusion_model": {
+        "pattern": "\\b(d(iffusion)?[\\s-]?(m(odel)?s?|model\\s+dm)(\\s*\\(dm\\))?\\b|d(enoising)?[\\s-]?d(iffusion)?[\\s-]?m(odel)?|l(atent)?[\\s-]?d(iffusion)?[\\s-]?m(odel)?|n(ovel)?[\\s-]?d(iffusion)?[\\s-]?m(odel)?)\\b",
+        "replacement": "diffusion model"
+    },
+    "edge_technology": {
+        "pattern": "\\bedge[\\s-]?(?:computing|cloud|intelligence|ai|analytics|detection|servers?|infrastructure|network(?:ing)?|devices?|processing)\\b",
+        "replacement": "edge computing"
+    },
+    "mobile_edge_computing": {
+        "pattern": "\\b(m(obile)?[\\s-]?m(ulti)?[\\s-]?a(ccess)?)[\\s-]?e(dge)?[\\s-]?c(omputing)?(\\s*\\(mec\\))?\\b|\\bmec\\b",
+        "replacement": "edge computing"
+    },
+    "intelligent_transportation_system": {
+        "pattern": "\\b(?:intelligent[\\s-]?transportation[\\s-]?systems?(?:\\s*\\(its\\))?|its)\\b",
+        "replacement": "intelligent transportation system"
+    },
+    "urban_planning_patterns": {
+        "pattern": "\\b(?:urban|city)[\\s-]?(?:planning|modeling|development|expansion|transformation|renovation|form(?:\\s+generation)?)\\b",
+        "replacement": "urban planning"
+    },
+    "urban_computing": {
+        "pattern": "\\burban[\\s-]?(?:computing|city(?:[\\s-]?simulation|[\\s-]?design)?)\\b",
+        "replacement": "urban computing"
+    },
+    "digital_twin_patterns": {
+        "pattern": "\\bdigital[\\s-]?(?:twin[s]?|city[\\s-]?simulation)\\b",
+        "replacement": "digital twin"
+    },
+    "healthcare_patterns": {
+        "pattern": "\\b(?:(?:digital[\\s-]?)?health(?:care|[\\s-]?systems?|[\\s-]?equity|[\\s-]?informatics|[\\s-]?tech(?:nology)?)|(?:population|environmental|public)[\\s-]?health|medical[\\s-]?(?:systems?|care|services|technologies|applications)|ai[\\s-]?(?:and|in|for)[\\s-]?health(?:care)?|e[\\s-]?health|telemedicine|epidemiology|remote[\\s-]?(?:patient[\\s-]?)?monitoring)\\b",
+        "replacement": "healthcare"
+    },
+    "energy_management": {
+        "pattern": "\\b(?:energy|renewable[\\s-]?energy|distributed[\\s-]?energy|urban[\\s-]?energy|electricity[\\s-]?(?:consumption|theft|detection)|smart[\\s-]?grids?|solar[\\s-]?(?:radiation|potential|cell|analytics)?|photovoltaic[s]?|bipv|building[\\s-]?integrated[\\s-]?photovoltaic)\\b",
+        "replacement": "energy management"
+    },
+    "environment_patterns": {
+        "pattern": "\\b(e(nvironment(al)?)?|w(ater)?[\\s-]?(e(nvironment|pollution))?|a(ir)?[\\s-]?(pollution|quality)|c(limate)?[\\s-]?(c(hange[s]?)?|p(olicy))|s(olid)?[\\s-]?w(aste)?[\\s-]?m(anagement)(\\s*\\(swm\\))?)\\b",
+        "replacement": "environment"
+    },
+    "citizen_engagement": {
+        "pattern": "\\b(?:citizen[\\s-]?(?:engagement|experience|science)|digital[\\s-]?citizenship)\\b",
+        "replacement": "citizen engagement"
+    },
+    "federated_learning": {
+        "pattern": "\\b(f(ederated)?[\\s-]?l(earning)?)(\\s*\\(fl\\))?\\b|\\bfl\\b(?![\\s-]?e(stimation))",
+        "replacement": "federated learning"
+    },
+    "gaussian_mixture_model": {
+        "pattern": "\\b(g(aussian)?[\\s-]?m(ixture)?[\\s-]?m(odel)?s?)(\\s*\\(gmm\\))?\\b|\\bgmm\\b",
+        "replacement": "gaussian mixture model"
+    },
+    "design_patterns": {
+        "pattern": "\\b(?:generative[\\s-]?(?:urban[\\s-]?design)?(?:\\s+optimization)?|urban[\\s-]?design|(?:performance[\\s-]?driven|participatory)[\\s-]?design)\\b",
+        "replacement": "participatory design"
+    },
+    "social_aspects": {
+        "pattern": "\\b(?:social[\\s-]?(?:engineering|exclusion|inclusion|sustainability|media|network)|socio[\\s-]?cultural[\\s-]?challenges)\\b",
+        "replacement": "social aspects"
+    },
+    "spatial_analysis": {
+        "pattern": "\\b(?:spatial[\\s-]?(?:analysis|augmentation|distribution|intelligence|simulation)|urban[\\s-]?block(?:\\s+morphology)?)\\b",
+        "replacement": "spatial analysis"
+    },
+    "spatiotemporal_analysis": {
+        "pattern": "\\b(?:(?:spatial[\\s-]?temporal|spatio[\\s-]?temporal|spatiotemporal)[\\s-]?(?:data|features[\\s-]?processing|prediction|validity[\\s-]?constraint)?)\\b",
+        "replacement": "spatiotemporal analysis"
+    },
+    "sustainability": {
+        "pattern": "\\bsustainab(?:ility|le[\\s-]?(?:cities|city|destinations|development(?:\\s+goals(?:\\s*\\(sdgs\\))?)?|mobility))\\b",
+        "replacement": "sustainability"
+    },
+    "urban_mobility": {
+        "pattern": "\\b(?:(?:urban|human)[\\s-]?mobility(?:\\s+management|[\\s-]?prediction)?|traffic[\\s-]?(?:data[\\s-]?imputation|estimation|flow(?:\\s+forecasting)?|light|management[\\s-]?system|prediction|trajectory[\\s-]?generation)|mobility[\\s-]?as[\\s-]?a[\\s-]?service|policy[\\s-]?mobility|public[\\s-]?transport)\\b",
+        "replacement": "urban mobility"
+    },
+    "unsupervised_learning": {
+        "pattern": "\\bunsupervised[\\s-]?(?:learning|anomaly[\\s-]?detection|classification)\\b",
+        "replacement": "unsupervised learning"
+    },
+    "gis": {
+        "pattern": "\\b(?:geographical[\\s-]?information[\\s-]?systems?(?:\\s*\\(gis\\))?|gis)\\b",
+        "replacement": "geographical information system"
+    },
+    "remote_sensing": {
+        "pattern": "\\b(r(emote)?[\\s-]?s(ensing)?)(\\s+image[s]?)?\\b",
+        "replacement": "remote sensing"
+    },
+    "street_view": {
+        "pattern": "\\b(s(treet)?[\\s-]?v(iews?)?)([\\s-]?(imagery|images))?\\b",
+        "replacement": "street view"
+    }
+}
