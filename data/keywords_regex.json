@@ -184,5 +184,35 @@
     "street_view": {
         "pattern": "\\b(s(treet)?[\\s-]?v(iews?)?)([\\s-]?(imagery|images))?\\b",
         "replacement": "street view"
+    },
+    "communication_infrastructure": {
+        "pattern": "\\b(?:[56]g(?:[\\s-]?wireless[\\s-]?communication)?|wireless[\\s-]?(?:communication|image[\\s-]?transmission|sensor[\\s-]?networks?)|intelligent[\\s-]?wireless[\\s-]?networks|optimal[\\s-]?routing[\\s-]?and[\\s-]?wireless[\\s-]?sensor[\\s-]?network|(?:wi[\\s-]?fi|wifi)(?:[\\s-]?ftm)?)\\b",
+        "replacement": "communication infrastructure"
+    },
+    "computer_vision": {
+        "pattern": "\\b(?:computer[\\s-]?vision|embedded[\\s-]?machine[\\s-]?vision|(?:yolo(?:[\\s-]?(?:v[4578]|x|series|gtwdnet[\\s-]?model))?)|you[\\s-]?only[\\s-]?look[\\s-]?once(?:[\\s-]?yolo)?)\\b",
+        "replacement": "computer vision"
+    },
+    "transformer": {
+        "pattern": "\\b(?:transformer(?:[\\s-]?(?:based[\\s-]?multi[\\s-]?source[\\s-]?visual[\\s-]?fusion|models?|networks?)|s)?|(?:v(?:ision|isual)[\\s-]?transformers?(?:[\\s-]?vits?)?)|(?:video[\\s-]?transformer))\\b",
+        "replacement": "transformer"
+    },
+    "electric_vehicle": {
+        "pattern": "\\b(?:electric[\\s-]?vehicles?(?:[\\s-]?(?:evs?)?)?(?:\\s*\\(ev[s]?\\))?)\\b",
+        "replacement": "electric vehicle"
+    },
+    "urban_safety": {
+        "pattern": "\\b(?:(?:fire[\\s-]?(?:and[\\s-]?smoke[\\s-]?detection|detection|location)|forest[\\s-]?fire|wildfire[\\s-]?response|early[\\s-]?fire|tunnel[\\s-]?fire)|earthquake[\\s-]?early[\\s-]?warning|accident|proactive[\\s-]?safety[\\s-]?measures|public[\\s-]?safety|gas[\\s-]?leakage)\\b",
+        "replacement": "urban safety"
+    },
+
+    "smart_building": {
+        "pattern": "\\bsmart[\\s-]?buildings?\\b",
+        "replacement": "smart building"
+    },
+
+    "governance": {
+        "pattern": "\\b(?:governance|smart[\\s-]?governance|policy[\\s-]?making)\\b",
+        "replacement": "governance"
     }
 }
