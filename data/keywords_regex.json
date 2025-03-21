@@ -106,7 +106,7 @@
         "replacement": "edge computing"
     },
     "intelligent_transportation_system": {
-        "pattern": "\\b(?:intelligent[\\s-]?transportation[\\s-]?systems?(?:\\s*\\(its\\))?|its)\\b",
+        "pattern": "\\b(?:intelligent[\\s-]?(?:transport(?:ation)?)[\\s-]?systems?(?:\\s*\\(its\\))?|its|smart[\\s-]?transportation(?:[\\s-]?infrastructure[\\s-]?skin)?|transportation(?:[\\s-]?(?:metaverse|system))?|commercial[\\s-]?transportation[\\s-]?road[\\s-]?banning)\\b",
         "replacement": "intelligent transportation system"
     },
     "urban_planning_patterns": {
@@ -166,7 +166,7 @@
         "replacement": "sustainability"
     },
     "urban_mobility": {
-        "pattern": "\\b(?:(?:urban|human)[\\s-]?mobility(?:\\s+management|[\\s-]?prediction)?|traffic[\\s-]?(?:data[\\s-]?imputation|estimation|flow(?:\\s+forecasting)?|light|management[\\s-]?system|prediction|trajectory[\\s-]?generation)|mobility[\\s-]?as[\\s-]?a[\\s-]?service|policy[\\s-]?mobility|public[\\s-]?transport)\\b",
+        "pattern": "\\b(?:(?:urban|human|smart)[\\s-]?mobility(?:\\s+management|[\\s-]?prediction)?|traffic[\\s-]?(?:data[\\s-]?imputation|estimation|flow(?:\\s+forecasting)?|light|management[\\s-]?system|prediction|trajectory[\\s-]?generation)|mobility[\\s-]?as[\\s-]?a[\\s-]?service|policy[\\s-]?mobility|public[\\s-]?transport)\\b",
         "replacement": "urban mobility"
     },
     "unsupervised_learning": {
