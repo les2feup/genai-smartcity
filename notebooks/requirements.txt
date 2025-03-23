@@ -11,3 +11,8 @@ simplejson
 seaborn
 networkx
 wordcloud
+torch
+transformers
+tqdm 
+ipywidgets 
+jupyter
