@@ -1,6 +1,7 @@
 {
     "Smart Economy": [
         "Economy",
+        "Business",
         "Economic Management",
         "Innovation Policy",
         "Socioeconomics"
@@ -10,21 +11,23 @@
         "Public Services",
         "Public Policies",
         "Urban Planning",
-        "Social Equity"
+        "Social Equity",
+        "Cybersecurity"
     ],
     "Smart Living": [
         "Living",
-        "Heritage Preservation",
+        "Home",
+        "Tourism",
+        "Culture",
         "Buildings",
         "Education",
         "Healthcare",
-        "Security and Safety"
+        "Emergency Safety"
     ],
     "Smart Mobility": [
         "Mobility",
-        "Traffic Safety",
+        "Traffic Management",
         "Transportation Systems",
-        "Traffic Flow",
         "Electric Vehicles",
         "Public Transit"
     ],
@@ -41,6 +44,7 @@
         "Resource Conservation",
         "Energy Management",
         "Smart Grids",
+        "Lightning",
         "Air Quality",
         "Water Quality",
         "Green Spaces"
