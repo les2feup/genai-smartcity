@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "total_abstracts": 401,
+    "abstracts_with_models": 50,
+    "percentage_with_models": 12.468827930174564,
+    "model_categories": {
+      "Transformer-Based Models": [
+        "transformer",
+        "gpt",
+        "bert",
+        "t5",
+        "llama",
+        "palm",
+        "chatgpt",
+        "gpt-2",
+        "gpt-3",
+        "gpt-4",
+        "large language model",
+        "llm",
+        "small language model",
+        "slm",
+        "foundation model",
+        "pretrained language model",
+        "encoder-decoder",
+        "attention mechanism",
+        "self-attention",
+        "generative pretrained transformer",
+        "claude",
+        "bard",
+        "google bard",
+        "mistral"
+      ],
+      "Generative Adversarial Networks": [
+        "gan",
+        "generative adversarial network",
+        "wgan",
+        "wgan-gp",
+        "conditional gan",
+        "cgan",
+        "cycle gan",
+        "cyclegan",
+        "pix2pix",
+        "pix2pixhd",
+        "sr-gan",
+        "srgan",
+        "progressive gan",
+        "biggan",
+        "stylegan",
+        "5gt-gan",
+        "tabular gan",
+        "ctgan",
+        "stargan",
+        "adv-gan"
+      ],
+      "Diffusion Models": [
+        "diffusion model",
+        "ddpm",
+        "stable diffusion",
+        "latent diffusion",
+        "score-based model",
+        "noise prediction",
+        "denoising diffusion",
+        "ddim",
+        "guided diffusion",
+        "classifier-free guidance",
+        "ddpo",
+        "text-to-image diffusion"
+      ],
+      "Variational Autoencoders": [
+        "vae",
+        "variational autoencoder",
+        "beta-vae",
+        "conditional vae",
+        "cvae",
+        "vq-vae",
+        "vector quantized vae",
+        "hierarchical vae",
+        "disentangled vae",
+        "autoregressive models",
+        "autoencoder",
+        "latent space modeling"
+      ],
+      "Neural Radiance Fields & 3D Models": [
+        "nerf",
+        "neural radiance field",
+        "3d gan",
+        "3d generative model",
+        "neural rendering",
+        "implicit representation",
+        "point cloud generation",
+        "mesh generation",
+        "shape generation",
+        "3d reconstruction",
+        "neural implicit surface",
+        "occupancy network",
+        "signed distance function"
+      ],
+      "Hybrid & Multimodal Architectures": [
+        "multimodal model",
+        "vision-language model",
+        "clip",
+        "dall-e",
+        "imagen",
+        "flamingo",
+        "multimodal transformer",
+        "cross-attention",
+        "contrastive learning",
+        "multimodal embedding",
+        "cross-modal generation",
+        "multimodal fusion",
+        "multimodal alignment"
+      ]
+    }
+  },
+  "model_counts": {
+    "Transformer-Based Models": 3
+  },
+  "match_types": {
+    "exact": 3,
+    "token": 0,
+    "semantic": 1,
+    "domain_pattern": 0
+  },
+  "top_model_terms": {
+    "transformer": 2,
+    "encoder-decoder": 1,
+    "llm": 1
+  },
+  "domain_model_matrix": {
+    "Diffusion Models": {
+      "Smart Economy": 0,
+      "Smart Environment": 0,
+      "Smart Governance": 0,
+      "Smart Living": 0,
+      "Smart Mobility": 0,
+      "Smart People": 0
+    },
+    "Generative Adversarial Networks": {
+      "Smart Economy": 0,
+      "Smart Environment": 0,
+      "Smart Governance": 0,
+      "Smart Living": 0,
+      "Smart Mobility": 0,
+      "Smart People": 0
+    },
+    "Hybrid & Multimodal Architectures": {
+      "Smart Economy": 0,
+      "Smart Environment": 0,
+      "Smart Governance": 0,
+      "Smart Living": 0,
+      "Smart Mobility": 0,
+      "Smart People": 0
+    },
+    "Neural Radiance Fields & 3D Models": {
+      "Smart Economy": 0,
+      "Smart Environment": 0,
+      "Smart Governance": 0,
+      "Smart Living": 0,
+      "Smart Mobility": 0,
+      "Smart People": 0
+    },
+    "Transformer-Based Models": {
+      "Smart Economy": 0,
+      "Smart Environment": 0,
+      "Smart Governance": 1,
+      "Smart Living": 1,
+      "Smart Mobility": 1,
+      "Smart People": 0
+    },
+    "Variational Autoencoders": {
+      "Smart Economy": 0,
+      "Smart Environment": 0,
+      "Smart Governance": 0,
+      "Smart Living": 0,
+      "Smart Mobility": 0,
+      "Smart People": 0
+    }
+  },
+  "model_co_occurrence": {
+    "Transformer-Based Models___metadata": 3
+  },
+  "examples": {
+    "Transformer-Based Models": {
+      "doi": "10.1038/s41598-025-91206-6",
+      "contribution": "To address these issues, this study developed a multi-scale global perceptron network based on Transformer and CNN using novel encoder-decoders for enhancing contextual representation of buildings. Specifically, an improved multi-head-attention encoder is employed by constructing multi-scale tokens ...",
+      "matched_terms": [
+        "transformer",
+        "encoder-decoder"
+      ],
+      "confidence": 0.7645685732364654,
+      "domains": [
+        "Smart Living"
+      ]
+    },
+    "_metadata": {
+      "doi": "10.1038/s41598-025-91206-6",
+      "contribution": "To address these issues, this study developed a multi-scale global perceptron network based on Transformer and CNN using novel encoder-decoders for enhancing contextual representation of buildings. Specifically, an improved multi-head-attention encoder is employed by constructing multi-scale tokens ...",
+      "matched_terms": [],
+      "confidence": 0.0,
+      "domains": [
+        "Smart Living"
+      ]
+    }
+  }
+}

@@ -4,7 +4,11 @@
         "Business",
         "Economic Management",
         "Innovation Policy",
-        "Socioeconomics"
+        "Socioeconomics",
+        "Marketing",
+        "Industry",
+        "Finance",
+        "Logistics"
     ],
     "Smart Governance": [
         "Governance",
@@ -16,7 +20,7 @@
     ],
     "Smart Living": [
         "Living",
-        "Home",
+        "Housing",
         "Tourism",
         "Culture",
         "Buildings",
@@ -29,21 +33,29 @@
         "Traffic Management",
         "Transportation Systems",
         "Electric Vehicles",
-        "Public Transit"
+        "Public Transit",
+        "Pedestrian",
+        "Bicycle",
+        "Multimodal Transport"
     ],
     "Smart People": [
         "People",
         "Citizens",
         "Education",
-        "Community Engagement",
+        "Citizen Engagement",
         "Learning and Teaching"
     ],
     "Smart Environment": [
+        "Environment",
+        "Sustainability",
+        "Climate Change",
         "Waste Management",
         "Pollution Control",
         "Resource Conservation",
         "Energy Management",
+        "Renewable Energy",
         "Smart Grids",
+        "Power Distribution",
         "Lightning",
         "Air Quality",
         "Water Quality",
