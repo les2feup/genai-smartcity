@@ -1,0 +1,282 @@
+[
+  {
+    "text":"We implemented a sequence-to-sequence transformer model to generate realistic future energy consumption data for individual smart buildings based on weather forecasts.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"While generative approaches exist for network traffic simulation, this research relies on a discrete-event simulation model.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"We implemented a Kalman filter to improve the accuracy of GPS tracking for city buses.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"This study explores the theoretical applications of variational autoencoders (VAEs) in generating urban digital twins.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"This study compares the use of generative models (GANs) with traditional econometric methods for generating synthetic data to train models predicting urban housing price trends.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"Generative AI is used to create synthetic datasets for training AI-powered waste management systems.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The presentation touched upon using VAEs for anomaly detection in smart grids, but the deployed solution uses isolation forests.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"We are using a transformer model to create realistic simulations of pedestrian flow in shopping malls.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The paper explores the feasibility of using generative AI, specifically style transfer GANs, to visualize proposed urban redevelopment projects.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"We used a fine-tuned large language model (LLM) to generate varied and realistic dialogue flows for a chatbot providing dynamic information about local urban events and cultural activities.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"Linear programming was used to optimize the allocation of emergency response vehicles.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"We use a transformer model to create realistic pedestrian movement datasets for crowd flow analysis.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We trained an LLM to generate summaries of public council meetings related to smart city initiatives.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We implemented a transformer model based on user history to generate personalized recommendations for navigating urban green spaces and parks.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The paper explores the theoretical aspects of using variational autoencoders (VAEs) to generate synthetic point cloud data for recognizing urban building facade damages.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The discussion presents the potential of diffusion models for augmenting sparse sensor readings in environmental monitoring networks.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"Our framework employs a specialized transformer model to generate executable code snippets for automating repetitive urban data analysis and visualization pipelines.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We built a system for automatically identifying and classifying different types of vehicles using image analysis.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"We used a large language model, trained on public transport schedules and real-time updates, to generate conversational responses for a transit information bot.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The research evaluates the impact of installing LED streetlights on energy consumption and public safety.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A neural network was used to predict the demand for emergency services.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"This research explores the conceptual use of LLMs for generating diverse urban planning scenarios.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A transformer architecture is utilized to generate synthetic traffic flow data, including rare anomaly events, for robust simulation model training.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The abstract mentions the potential of Variational Autoencoders (VAEs) for generating synthetic urban mobility data, but the core of the work focuses on statistical modeling of existing ride-sharing datasets.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The abstract mentions the potential of VAEs for generating synthetic socio-economic data for urban areas, but relies on official census data.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The literature review thoroughly covers GAN applications for synthesizing realistic urban material textures, but our work focuses on texture analysis using advanced convolutional neural networks (CNNs).",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"This study critically compares the use of advanced generative models with simpler regression techniques for training a model predicting urban noise pollution levels near construction sites.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The research used time series analysis to forecast future water demand.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"The discussion section covers the exciting future potential of large language models (LLMs) for generating interactive urban narratives and virtual historical explorations.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A generative model based on normalizing flows is employed to create synthetic, privacy-preserving household-level data for training models that predict urban waste generation rates more accurately.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We built a system for automatically detecting and reporting potholes using smartphone sensors.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A diffusion model is used to create synthetic sensor data for training an anomaly detection system in smart grids.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We implemented a nearest neighbor algorithm for identifying similar buildings based on their characteristics.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"This paper explores the potential of GANs for generating realistic urban terrain data for flood modeling.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The paper explores the theoretical aspects of using variational autoencoders (VAEs) to generate synthetic point cloud data for recognizing urban building facade damages.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The discussion presents the potential of diffusion models for training data augmentation in smart transportation.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"Our framework employs a transformer to generate code for automating specific urban data analysis pipelines.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"A dashboard was created to visualize real-time parking availability based on sensor feeds.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A generative AI agent-based model is used to create realistic simulations of pedestrian evacuation behavior in crowded urban subway stations.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The related work section discusses the historical use of GANs to generate synthetic architectural styles for training models that recognize urban building types and functions.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A transformer model is deployed to generate natural language summaries of complex urban sensor data streams for city officials.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The introduction provides an overview of generative AI techniques, including transformers and GANs, relevant to smart cities.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The related work section covers the use of generative models for synthetic mobility data synthesis, citing prior studies.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A diffusion model is trained and used to generate synthetic spatio-temporal data for improving models that predict urban air pollution hotspots.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We implemented a large language model fine-tuned on city data to create a chatbot answering citizen inquiries about local regulations and services.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The abstract mentions the potential of using GANs to create privacy-preserving synthetic datasets of citizen mobility patterns.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A conditional GAN (Pix2Pix style) is implemented to generate synthetic paired images for training a model that automatically detects and categorizes different types of urban graffiti.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"A generative model is used to create synthetic trajectories of pedestrian movement within complex indoor environments like subway stations.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We applied a StyleGAN to create high-resolution maps detailing urban infrastructure vulnerabilities.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The paper mentions the use of VAEs for feature learning from sensor data, but focuses on traditional clustering algorithms.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"This paper presents a novel GAN-based approach for generating realistic urban street scenes, aiding in smart city simulation and planning.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We developed a system for automatically detecting and reporting illegal dumping using image analysis.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A conditional diffusion model is used to generate high-resolution images simulating urban damage scenarios for post-disaster response training.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The paper explores the feasibility of using generative AI (specifically GANs) to create synthetic image data for training a model that recognizes invasive urban plant species.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"This paper explores the theoretical underpinnings of using GANs for generating plausible urban soundscapes for noise pollution studies.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A comparative study of different waste collection routing algorithms was conducted.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A generative model is employed to create synthetic data representing patterns of illegal waste dumping detected via aerial imagery.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"A generative AI agent-based model simulates realistic pedestrian evacuation behavior in crowded urban subway stations during emergencies.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"This thesis explores the concept of using LLMs to generate fictional resident personas for simulating service demands, but does not implement it.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"This study compares the use of generative models (GANs) with traditional econometric methods for generating synthetic data to train models predicting urban housing price trends.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"The discussion section covers the future potential of LLMs for generating interactive urban narratives and historical explorations.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"A conditional GAN (Pix2Pix) is implemented to generate synthetic images for training a model that automatically detects and categorizes urban graffiti.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"The authors acknowledge the potential of diffusion models for inpainting missing sections in historical city maps, but employ manual restoration.",
+    "label":"GenAI mentioned, not used"
+  },
+  {
+    "text":"We implemented a transformer model based on user history to generate personalized recommendations for navigating urban green spaces and parks.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"A support vector machine (SVM) was used to predict the risk of earthquakes.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"Predictive maintenance schedules for traffic signals were developed based on historical failure data and SVM classification.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A decision tree model was trained to predict the likelihood of building fires.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"We developed a system for automatically monitoring air quality using sensor networks.",
+    "label":"Not related to GenAI"
+  },
+  {
+    "text":"A conditional diffusion model is used to generate high-resolution images simulating various urban damage scenarios (fire, flood, earthquake) for post-disaster response training.",
+    "label":"GenAI used for smart city application"
+  },
+  {
+    "text":"We implemented a transformer-based sequence model to generate realistic urban traffic accident scenarios, including contributing factors, for safety analysis and prevention planning.",
+    "label":"GenAI used for smart city application"
+  }
+]
