@@ -6,6 +6,9 @@
 
 config.json
 
+# Checkpoints
+checkpoint*
+
 # Jupyter Notebooks save history
 *.py
 
