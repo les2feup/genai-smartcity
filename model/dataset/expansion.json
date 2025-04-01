@@ -1,0 +1,784 @@
+[
+    {
+        "text": "A GPT-style model was used to generate crisis response scenarios for urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A statistical model was used to segment mobility trends, with no use of generative models like diffusion.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a LLM-based method to simulate synthetic pedestrian flows, enabling scenario simulation in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although BERT is reviewed, this work uses a decision tree for classify-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GAN to produce realistic crisis response scenarios, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A StyleGAN was used to augment training datasets for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a clustering algorithm to detect energy loads. While BERT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GAN to produce realistic urban noise data, improving decisions in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although transformer is reviewed, this work uses a rule-based system for evaluate-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a StyleGAN to produce realistic urban layouts, improving decisions in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a clustering algorithm to classify urban features. While GAN models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a ChatGPT to produce realistic traffic simulations, improving decisions in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While LLM appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a GAN, we created crisis response scenarios to train robust systems for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While transformer appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was used to create air quality maps for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was used to generate synthetic pedestrian flows for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although transformer is reviewed, this work uses a rule-based system for evaluate-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a GAN, we simulated traffic simulations to train robust systems for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A rule-based system was used to evaluate urban features, with no use of generative models like transformer.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GAN to produce realistic synthetic pedestrian flows, improving decisions in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A rule-based system was used to detect traffic anomalies, with no use of generative models like ChatGPT.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a GPT-style model, we produced urban noise data to train robust systems for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GPT-style model to produce realistic synthetic pedestrian flows, improving decisions in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although LLM is reviewed, this work uses a recurrent neural network for classify-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a StyleGAN, we created training datasets to train robust systems for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a rule-based system to forecast address entities. While LLM models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a ChatGPT, we generated crisis response scenarios to train robust systems for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a VAE, we simulated traffic simulations to train robust systems for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a statistical model to recognize energy loads. While diffusion models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a LLM, we produced crisis response scenarios to train robust systems for urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While diffusion appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a VAE to produce realistic urban noise data, improving decisions in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A graph attention network was used to detect urban features, with no use of generative models like transformer.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a StyleGAN to produce realistic air quality maps, improving decisions in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a decision tree to segment urban features. While diffusion models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a VAE to produce realistic synthetic pedestrian flows, improving decisions in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A rule-based system was used to detect energy loads, with no use of generative models like GAN.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GPT-style model to produce realistic traffic simulations, improving decisions in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a rule-based system to segment traffic anomalies. While transformer models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GPT-style model was used to create synthetic pedestrian flows for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A statistical model was used to segment urban features, with no use of generative models like GPT.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a diffusion model, we augmentd urban noise data to train robust systems for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While ChatGPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a ChatGPT, we created air quality maps to train robust systems for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A rule-based system was used to evaluate traffic anomalies, with no use of generative models like GAN.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a GPT-style model, we synthesized traffic simulations to train robust systems for urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While diffusion appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a GPT-style model, we produced urban noise data to train robust systems for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although GPT is reviewed, this work uses a statistical model for recognize-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a LLM-based method to augment satellite imagery, enabling scenario simulation in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A decision tree was used to classify traffic anomalies, with no use of generative models like BERT.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a LLM-based method to produce traffic simulations, enabling scenario simulation in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A recurrent neural network was used to segment address entities, with no use of generative models like LLM.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a VAE to produce realistic traffic simulations, improving decisions in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a recurrent neural network to forecast traffic anomalies. While GPT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a LLM-based method to produce satellite imagery, enabling scenario simulation in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A recurrent neural network was used to classify traffic anomalies, with no use of generative models like GAN.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a diffusion model-based method to simulate traffic simulations, enabling scenario simulation in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a graph attention network to classify address entities. While BERT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a diffusion model to produce realistic urban layouts, improving decisions in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A CNN-LSTM hybrid was used to recognize energy loads, with no use of generative models like LLM.",
+        "label": "Not related"
+    },
+    {
+        "text": "A LLM was used to create satellite imagery for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a decision tree to recognize urban features. While GAN models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A diffusion model was used to synthesize crisis response scenarios for urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GAN appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A ChatGPT was used to augment air quality maps for urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although GPT is reviewed, this work uses a clustering algorithm for detect-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a ChatGPT to produce realistic satellite imagery, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a clustering algorithm to forecast traffic anomalies. While BERT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was used to synthesize crisis response scenarios for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GAN appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GAN to produce realistic air quality maps, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A CNN-LSTM hybrid was used to match mobility trends, with no use of generative models like transformer.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a diffusion model-based method to synthesize air quality maps, enabling scenario simulation in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While ChatGPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a diffusion model, we simulated urban noise data to train robust systems for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a recurrent neural network to classify traffic anomalies. While BERT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a ChatGPT to produce realistic crisis response scenarios, improving decisions in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A graph attention network was used to forecast urban features, with no use of generative models like diffusion.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a diffusion model-based method to produce urban noise data, enabling scenario simulation in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a LLM to produce realistic urban noise data, improving decisions in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While ChatGPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a diffusion model-based method to produce synthetic pedestrian flows, enabling scenario simulation in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While diffusion appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a LLM to produce realistic satellite imagery, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A graph attention network was used to detect urban features, with no use of generative models like BERT.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a diffusion model-based method to simulate satellite imagery, enabling scenario simulation in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While LLM appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A LLM was used to produce traffic simulations for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a statistical model to match traffic anomalies. While transformer models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a VAE-based method to produce synthetic pedestrian flows, enabling scenario simulation in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a rule-based system to classify address entities. While transformer models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a GPT-style model-based method to generate air quality maps, enabling scenario simulation in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a decision tree to match address entities. While diffusion models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a GAN to produce realistic synthetic pedestrian flows, improving decisions in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although GPT is reviewed, this work uses a recurrent neural network for evaluate-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a StyleGAN-based method to create training datasets, enabling scenario simulation in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A CNN-LSTM hybrid was used to segment traffic anomalies, with no use of generative models like BERT.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a GAN, we generated air quality maps to train robust systems for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A CNN-LSTM hybrid was used to evaluate urban features, with no use of generative models like BERT.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was used to synthesize urban layouts for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a recurrent neural network to classify energy loads. While GAN models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GPT-style model was used to produce satellite imagery for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a rule-based system to recognize traffic anomalies. While ChatGPT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A ChatGPT was used to augment satellite imagery for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GAN appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a VAE to produce realistic training datasets, improving decisions in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a rule-based system to recognize mobility trends. While BERT models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a diffusion model-based method to generate synthetic pedestrian flows, enabling scenario simulation in mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although LLM is reviewed, this work uses a CNN-LSTM hybrid for classify-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a LLM-based method to generate traffic simulations, enabling scenario simulation in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although GAN is reviewed, this work uses a clustering algorithm for recognize-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a LLM, we synthesized urban layouts to train robust systems for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a ChatGPT to produce realistic urban noise data, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A CNN-LSTM hybrid was used to segment mobility trends, with no use of generative models like GPT.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a LLM to produce realistic urban noise data, improving decisions in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While GAN appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A diffusion model was used to synthesize training datasets for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While ChatGPT appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a VAE, we created synthetic pedestrian flows to train robust systems for infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A clustering algorithm was used to forecast traffic anomalies, with no use of generative models like LLM.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a StyleGAN-based method to produce satellite imagery, enabling scenario simulation in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a clustering algorithm to recognize mobility trends. While diffusion models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a autoregressive model to produce realistic satellite imagery, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A recurrent neural network was used to segment mobility trends, with no use of generative models like GAN.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a autoregressive model, we generated urban layouts to train robust systems for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although transformer is reviewed, this work uses a recurrent neural network for segment-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a LLM, we created training datasets to train robust systems for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although GPT is reviewed, this work uses a graph attention network for detect-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "Using a LLM, we simulated urban noise data to train robust systems for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A recurrent neural network was used to detect energy loads, with no use of generative models like ChatGPT.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GPT-style model was used to simulate traffic simulations for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a clustering algorithm to recognize traffic anomalies. While LLM models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a diffusion model to produce realistic satellite imagery, improving decisions in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A decision tree was used to match traffic anomalies, with no use of generative models like diffusion.",
+        "label": "Not related"
+    },
+    {
+        "text": "The proposed system employs a diffusion model to produce realistic urban layouts, improving decisions in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While transformer appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was used to produce training datasets for mobility management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Although GPT is reviewed, this work uses a clustering algorithm for classify-based prediction.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was used to synthesize traffic simulations for emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "While LLM appears in the literature, the model in this study does not use any generative approach.",
+        "label": "Not related"
+    },
+    {
+        "text": "This work presents a VAE-based method to produce crisis response scenarios, enabling scenario simulation in emergency response.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "The study applies a clustering algorithm to detect address entities. While GAN models were discussed, they were not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A generative transformer model was employed to simulate future urban heat patterns based on satellite imagery and meteorological data, aiming to assist city planners in mitigating heat islands.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Using diffusion models, we generated potential urban traffic scenarios under varying pedestrian influx to aid city traffic department forecasting.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "To support smart energy grids, we developed a GAN-based system to predict peak energy consumption and simulate counterfactual demand-response strategies.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Our system utilizes LLMs to auto-generate citizen-friendly summaries of urban policy documents, enhancing participatory governance in smart city contexts.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We propose a multimodal architecture combining LLMs and spatial encoders to dynamically generate zoning recommendations in rapidly growing urban areas.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We use a generative model to produce synthetic datasets for training flood prediction systems, although it is not deployed directly in any smart city infrastructure.",
+        "label": "Not related"
+    },
+    {
+        "text": "Our study employs LLMs to generate summaries of urban reports, but the tool is primarily designed for academic research purposes rather than smart city deployment.",
+        "label": "Not related"
+    },
+    {
+        "text": "An AI system generates designs for green buildings using transformer models. While not directly implemented in smart cities, the tool is aligned with sustainable urban practices.",
+        "label": "Not related"
+    },
+    {
+        "text": "Generative neural networks were used to visualize crowd behavior in stadiums for safety simulations. While applicable to smart city domains, it remains experimental.",
+        "label": "Not related"
+    },
+    {
+        "text": "Transformer-based models are explored to generate synthetic street layouts, but the tool is developed for game design environments and not urban planning.",
+        "label": "Not related"
+    },
+    {
+        "text": "A new generative model was tested for producing art in the style of Van Gogh. The results contribute to digital creativity but are not connected to urban or smart city applications.",
+        "label": "Not related"
+    },
+    {
+        "text": "We apply generative AI to develop personalized learning paths for students in virtual classrooms. Although innovative, the system is unrelated to urban development.",
+        "label": "Not related"
+    },
+    {
+        "text": "The model generates synthetic music samples based on user preferences. This has no current linkage with smart city applications.",
+        "label": "Not related"
+    },
+    {
+        "text": "GANs are employed to generate interior design layouts for residential buildings. The system focuses on aesthetics and does not intersect with city-level planning.",
+        "label": "Not related"
+    },
+    {
+        "text": "We use a variational autoencoder to compress genomic data for bioinformatics research, which is entirely unrelated to smart city or urban planning efforts.",
+        "label": "Not related"
+    },
+    {
+        "text": "We integrated a fine-tuned LLaMA model into our urban traffic analysis pipeline. The model generates structured metadata from video feeds (e.g., lane occupancy, vehicle classification) that feeds directly into the city’s real-time traffic orchestration system.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "To harmonize historical utility records, we applied a GPT-4 model to infer missing building addresses and convert free-form textual inputs into standardized formats for geospatial indexing.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This study proposes a hybrid architecture using GPT-J to extract textual insights from utility reports, which are then fused with time-series models to forecast district-level energy consumption.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Using GPT-4V, the system interprets site images and maintenance reports to identify deviations from approved construction plans in real-time, enhancing regulatory oversight in smart infrastructure development.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A local municipality deployed a BERT-based summarizer fine-tuned on emergency transcripts to classify call urgency and recommend optimal dispatch locations, reducing response latency.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A generative model was deployed to extract features from aerial scans of underground cable routes, improving safety inspections and maintenance prioritization across a large-scale urban grid.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Fine-tuned LLMs were integrated with mobility platforms to detect anomalies in public bus operations and automatically generate performance reports for fleet managers.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A GenAI-enabled chatbot was implemented at smart city kiosks to guide visitors using local maps, real-time events, and multimodal wayfinding instructions.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "A district energy monitoring system uses a transformer-based model to correlate historical energy logs and building usage notes, enabling predictive load balancing strategies.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "Urban noise reports were translated into actionable noise source profiles using LLM summarization and classification, improving enforcement and acoustic zoning.",
+        "label": "GenAI used for smart city application"
+    },
+
+    {
+        "text": "We used Claude 2 to summarize decades of urban development literature to support graduate teaching materials.",
+        "label": "Not related"
+    },
+    {
+        "text": "Researchers used ChatGPT to draft sections of a literature review on participatory design in cities.",
+        "label": "Not related"
+    },
+    {
+        "text": "The tool leverages LLMs to provide readable summaries of zoning laws for law students. It does not feed into city workflows.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GPT-4 chatbot was used in stakeholder workshops to generate hypothetical narratives for climate adaptation. Outputs were not integrated into urban simulation tools.",
+        "label": "Not related"
+    },
+    {
+        "text": "A professor used GPT-3 to draft a course syllabus for a class on AI and the city.",
+        "label": "Not related"
+    },
+    {
+        "text": "GPT-4 was used to help translate policy documents into Spanish for internal use in a research team. There was no deployment in city systems.",
+        "label": "Not related"
+    },
+    {
+        "text": "An AI workshop explored using LLMs to brainstorm urban resilience strategies, but no models were deployed in practical tools.",
+        "label": "Not related"
+    },
+    {
+        "text": "An art installation in a museum used a fine-tuned GPT model to generate speculative narratives about future cities. It was not used in planning or infrastructure.",
+        "label": "Not related"
+    },
+    {
+        "text": "Students applied a generative AI model to fictionalize urban futures in their architecture coursework.",
+        "label": "Not related"
+    },
+    {
+        "text": "A comparative study tested LLM performance in summarizing UN-Habitat reports but did not assess applicability in urban systems.",
+        "label": "Not related"
+    },
+
+    {
+        "text": "Smart cities are increasingly adopting AI tools. Models like GPT-4 and LLaMA have seen rising attention, though our work focuses on rule-based air quality inference.",
+        "label": "Not related"
+    },
+    {
+        "text": "Recent tools such as ChatGPT show potential in NLP. However, we adopt traditional classification models for our citizen feedback analysis.",
+        "label": "Not related"
+    },
+    {
+        "text": "While our current pipeline uses CNNs for surveillance image detection, future iterations might explore GenAI tools like Stable Diffusion or GPT-4.",
+        "label": "Not related"
+    },
+    {
+        "text": "Generative AI is reshaping urban computing. In this paper, however, we focus on rule-based heuristics for pedestrian zone allocation.",
+        "label": "Not related"
+    },
+    {
+        "text": "We reference ChatGPT in the related work section for its role in NLP, but our system uses traditional parsers for all data inputs.",
+        "label": "Not related"
+    },
+    {
+        "text": "Although DALL·E is noted in the introduction, we use only CAD and GIS tools for building design assessments.",
+        "label": "Not related"
+    },
+    {
+        "text": "The report mentions LLMs as a trend but does not include any NLP model or AI workflow in the methodology.",
+        "label": "Not related"
+    },
+    {
+        "text": "GPT-3 is listed among candidate models, but we ultimately rely on a decision-tree classifier trained on survey text.",
+        "label": "Not related"
+    },
+    {
+        "text": "The appendix includes a list of GenAI tools, but none were used or evaluated in the experiments.",
+        "label": "Not related"
+    },
+    {
+        "text": "A section introduces generative AI research in urban contexts, but the core model relies on hardcoded logic.",
+        "label": "Not related"
+    }
+]

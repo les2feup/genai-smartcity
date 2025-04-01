@@ -6,6 +6,9 @@
 
 config.json
 
+# Checkpoints
+checkpoint*
+
 # Jupyter Notebooks save history
 *.py
 
@@ -203,3 +206,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.safetensors
+model/output
+model/output/*
+dump.json

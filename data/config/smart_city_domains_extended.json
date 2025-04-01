@@ -3,7 +3,6 @@
         "Economy",
         "Business",
         "Economic Management",
-        "Innovation Policy",
         "Socioeconomics",
         "Marketing",
         "Industry",
@@ -15,6 +14,7 @@
         "Public Services",
         "Public Policies",
         "Urban Planning",
+        "Urban Management",
         "Social Equity",
         "Cybersecurity"
     ],
@@ -24,6 +24,7 @@
         "Tourism",
         "Culture",
         "Buildings",
+        "Construction",
         "Education",
         "Healthcare",
         "Emergency Safety"
@@ -42,8 +43,8 @@
         "People",
         "Citizens",
         "Education",
-        "Citizen Engagement",
-        "Learning and Teaching"
+        "Human",
+        "Citizen Engagement"
     ],
     "Smart Environment": [
         "Environment",
@@ -51,12 +52,10 @@
         "Climate Change",
         "Waste Management",
         "Pollution Control",
-        "Resource Conservation",
         "Energy Management",
         "Renewable Energy",
         "Smart Grids",
         "Power Distribution",
-        "Lightning",
         "Air Quality",
         "Water Quality",
         "Green Spaces"

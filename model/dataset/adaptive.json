@@ -1,0 +1,602 @@
+[
+    {
+        "text": "A transformer was trained to generate sensor data across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used statistical model to optimize address matches.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a ChatGPT to model building designs.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a statistical model is employed to evaluate address matches in the context of smart city logistics. While transformer models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A transformer was trained to create synthetic building designs across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world environmental modeling scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used heuristics to monitor environmental risks.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a autoregressive model-based framework to synthesize traffic flow scenarios, which supports decision-making in emergency management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used attention mechanism to optimize address matches.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a autoregressive model to synthesize pollution maps.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used graph convolution to monitor address matches.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to augment pollution maps across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world smart city logistics scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a heuristics is employed to detect load distributions in the context of smart city logistics. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a diffusion model-based framework to simulate building designs, which supports decision-making in emergency management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to forecast environmental risks in the context of emergency management. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was trained to synthesize traffic flow scenarios across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world emergency management scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a heuristics is employed to classify zoning compliance in the context of emergency management. While BERT models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a autoregressive model-based framework to augment text summaries, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to classify load distributions in the context of smart city logistics. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a autoregressive model to synthesize text summaries.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a attention mechanism is employed to forecast environmental risks in the context of smart city logistics. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a autoregressive model-based framework to simulate building designs, which supports decision-making in environmental modeling.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a attention mechanism is employed to evaluate environmental risks in the context of environmental modeling. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a autoregressive model-based framework to simulate sensor data, which supports decision-making in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to analyze zoning compliance in the context of urban planning. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a GAN to generate traffic flow scenarios.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a graph convolution is employed to detect environmental risks in the context of infrastructure monitoring. While transformer models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a BERT to create synthetic traffic flow scenarios.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies graph convolution to analyze energy trends in smart city systems. GAN is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a diffusion model to create synthetic building designs.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a graph convolution is employed to evaluate zoning compliance in the context of urban planning. While BERT models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a VAE-based framework to simulate satellite images, which supports decision-making in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used heuristics to detect load distributions.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a ChatGPT-based framework to model sensor data, which supports decision-making in emergency management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used heuristics to evaluate load distributions.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was trained to synthesize sensor data across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies graph convolution to forecast load distributions in smart city systems. transformer is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to create synthetic text summaries across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world emergency management scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a attention mechanism is employed to forecast energy trends in the context of emergency management. While transformer models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A LLM was trained to synthesize urban layouts across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies decision tree to classify energy trends in smart city systems. transformer is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A BERT was trained to generate sensor data across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used graph convolution to classify energy trends.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a transformer to generate text summaries.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used rule-based logic to analyze energy trends.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a LLM to simulate urban layouts.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies rule-based logic to monitor load distributions in smart city systems. transformer is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a diffusion model to simulate pollution maps.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies attention mechanism to evaluate load distributions in smart city systems. LLM is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a LLM-based framework to augment building designs, which supports decision-making in environmental modeling.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a statistical model is employed to optimize zoning compliance in the context of environmental modeling. While transformer models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a BERT-based framework to create synthetic text summaries, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies attention mechanism to optimize load distributions in smart city systems. ChatGPT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a BERT-based framework to augment satellite images, which supports decision-making in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a attention mechanism is employed to monitor zoning compliance in the context of infrastructure monitoring. While ChatGPT models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to augment traffic flow scenarios across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used decision tree to classify address matches.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a transformer-based framework to model traffic flow scenarios, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a graph convolution is employed to optimize traffic anomalies in the context of smart city logistics. While transformer models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to create synthetic urban layouts across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world environmental modeling scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used graph convolution to forecast environmental risks.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to augment building designs across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world emergency management scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies decision tree to optimize traffic anomalies in smart city systems. BERT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A transformer was trained to model satellite images across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world smart city logistics scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies attention mechanism to analyze load distributions in smart city systems. BERT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a transformer to create synthetic urban layouts.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used attention mechanism to detect energy trends.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a ChatGPT-based framework to simulate traffic flow scenarios, which supports decision-making in environmental modeling.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used rule-based logic to monitor address matches.",
+        "label": "Not related"
+    },
+    {
+        "text": "A LLM was trained to model sensor data across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world emergency management scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a heuristics is employed to evaluate traffic anomalies in the context of emergency management. While ChatGPT models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a VAE to augment satellite images.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a graph convolution is employed to monitor traffic anomalies in the context of smart city logistics. While transformer models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a transformer-based framework to generate building designs, which supports decision-making in emergency management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a rule-based logic is employed to forecast zoning compliance in the context of emergency management. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was trained to simulate building designs across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies heuristics to optimize energy trends in smart city systems. LLM is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a GAN to generate text summaries.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a statistical model is employed to classify zoning compliance in the context of environmental modeling. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a diffusion model-based framework to simulate sensor data, which supports decision-making in environmental modeling.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used graph convolution to detect environmental risks.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a autoregressive model to simulate building designs.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a rule-based logic is employed to detect environmental risks in the context of urban planning. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a VAE to synthesize building designs.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a rule-based logic is employed to optimize load distributions in the context of infrastructure monitoring. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to generate traffic flow scenarios across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world environmental modeling scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to classify address matches in the context of environmental modeling. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a VAE to augment text summaries.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to monitor traffic anomalies in the context of smart city logistics. While ChatGPT models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a transformer-based framework to simulate sensor data, which supports decision-making in environmental modeling.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies attention mechanism to classify traffic anomalies in smart city systems. transformer is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was trained to augment traffic flow scenarios across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world environmental modeling scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies heuristics to optimize environmental risks in smart city systems. BERT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A ChatGPT was trained to augment pollution maps across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world smart city logistics scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to forecast environmental risks in the context of smart city logistics. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A transformer was trained to synthesize urban layouts across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies rule-based logic to forecast load distributions in smart city systems. transformer is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a GAN-based framework to create synthetic text summaries, which supports decision-making in emergency management.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a statistical model is employed to evaluate energy trends in the context of emergency management. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was trained to generate building designs across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used graph convolution to evaluate environmental risks.",
+        "label": "Not related"
+    },
+    {
+        "text": "A GAN was trained to augment pollution maps across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies rule-based logic to evaluate traffic anomalies in smart city systems. ChatGPT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a diffusion model to generate building designs.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies rule-based logic to detect address matches in smart city systems. LLM is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a ChatGPT-based framework to generate building designs, which supports decision-making in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies attention mechanism to evaluate load distributions in smart city systems. GAN is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A BERT was trained to model urban layouts across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies statistical model to monitor address matches in smart city systems. ChatGPT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was trained to create synthetic pollution maps across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world emergency management scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used decision tree to detect load distributions.",
+        "label": "Not related"
+    },
+    {
+        "text": "A BERT was trained to augment sensor data across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies statistical model to classify load distributions in smart city systems. LLM is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was trained to simulate satellite images across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world environmental modeling scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used decision tree to analyze zoning compliance.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a LLM-based framework to simulate urban layouts, which supports decision-making in infrastructure monitoring.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a graph convolution is employed to analyze load distributions in the context of infrastructure monitoring. While LLM models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a transformer to generate urban layouts.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used rule-based logic to analyze zoning compliance.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was trained to augment pollution maps across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used decision tree to evaluate zoning compliance.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a transformer-based framework to generate traffic flow scenarios, which supports decision-making in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a statistical model is employed to forecast load distributions in the context of urban planning. While GAN models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a VAE-based framework to create synthetic satellite images, which supports decision-making in environmental modeling.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used attention mechanism to analyze energy trends.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a autoregressive model-based framework to augment pollution maps, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used statistical model to detect zoning compliance.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a autoregressive model to generate traffic flow scenarios.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used heuristics to optimize environmental risks.",
+        "label": "Not related"
+    },
+    {
+        "text": "A VAE was trained to create synthetic sensor data across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world emergency management scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "In this study, a decision tree is employed to analyze zoning compliance in the context of emergency management. While BERT models were reviewed in the literature, they were not used in this methodology. Evaluation results show consistent improvements over rule-based systems, confirming the approach's practicality.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a ChatGPT-based framework to augment satellite images, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used decision tree to classify zoning compliance.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a VAE-based framework to simulate satellite images, which supports decision-making in urban planning.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used decision tree to forecast energy trends.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a ChatGPT to synthesize traffic flow scenarios.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used attention mechanism to classify energy trends.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a transformer-based framework to synthesize text summaries, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies rule-based logic to classify environmental risks in smart city systems. ChatGPT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "A autoregressive model was trained to augment building designs across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world urban planning scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies heuristics to analyze energy trends in smart city systems. ChatGPT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a VAE to augment sensor data.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used statistical model to classify zoning compliance.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a autoregressive model to synthesize pollution maps.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "We used graph convolution to optimize environmental risks.",
+        "label": "Not related"
+    },
+    {
+        "text": "A BERT was trained to create synthetic satellite images across varying conditions in smart cities. The generated data was used for training robust predictive models and simulating real-world infrastructure monitoring scenarios. Performance metrics demonstrated significant gains over baseline methods.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies rule-based logic to detect energy trends in smart city systems. BERT is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "We used a autoregressive model to simulate satellite images.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies heuristics to analyze address matches in smart city systems. LLM is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    },
+    {
+        "text": "This study presents a ChatGPT-based framework to simulate pollution maps, which supports decision-making in smart city logistics.",
+        "label": "GenAI used for smart city application"
+    },
+    {
+        "text": "This work applies decision tree to analyze environmental risks in smart city systems. GAN is referenced in the background section but was not implemented.",
+        "label": "Not related"
+    }
+]
