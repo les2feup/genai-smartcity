@@ -32,6 +32,7 @@ If you reference this work in a scientific context, please cite this paper:
 ├── config/                  # Configuration files for the analysis
 ├── data/                    # Datasets generated in the study
 ├── manuscript/              # Manuscript and related documents
+├── model/                   # Models training notebooks for analysis
 ├── notebooks/               # Jupyter notebooks for analysis
 ├── results/                 # Output files and analysis results
 ```
