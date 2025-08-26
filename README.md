@@ -22,7 +22,7 @@ We developed a reproducible framework grounded in peer-reviewed literature and s
 
 If you reference this work in a scientific context, please cite this paper:
 
-[TBD]
+> Bittencourt, J. C. N., Flores, T. K. S., Jesus, T. C., & Costa, D. G. (2025). On the Role of AI in Building Generative Urban Intelligence. In Review. <https://doi.org/10.21203/rs.3.rs-7131966/v1>
 
 ## Repository Structure
 
@@ -36,6 +36,12 @@ If you reference this work in a scientific context, please cite this paper:
 ├── notebooks/               # Jupyter notebooks for analysis
 ├── results/                 # Output files and analysis results
 ```
+
+## Dataset & Model
+
+-   The dataset used in this study for model training and validation is available [here](https://doi.org/10.57967/hf/6339).
+
+-   The models trained in this study are available [here](https://doi.org/10.57967/hf/6340).
 
 ## Contact Information
 
